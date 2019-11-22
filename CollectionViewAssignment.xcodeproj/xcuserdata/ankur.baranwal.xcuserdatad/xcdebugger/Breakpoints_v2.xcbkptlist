@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewAssignment/ViewController.swift"
+            timestampString = "593088222.51405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "collectionView(_:viewForSupplementaryElementOfKind:at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewAssignment/SecondCollectionViewCell.swift"
+            timestampString = "593074667.7684931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewAssignment.SecondCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; CollectionViewAssignment.SecondCollectionViewCell"
+                  moduleName = "CollectionViewAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur.baranwal/Desktop/xcode%20project/CollectionViewAssignment/CollectionViewAssignment/SecondCollectionViewCell.swift"
+                  timestampString = "593070716.306953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewAssignment.SecondCollectionViewCell.init(frame: __C.CGRect) -&gt; CollectionViewAssignment.SecondCollectionViewCell"
+                  moduleName = "CollectionViewAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur.baranwal/Desktop/xcode%20project/CollectionViewAssignment/CollectionViewAssignment/SecondCollectionViewCell.swift"
+                  timestampString = "593070716.3135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
